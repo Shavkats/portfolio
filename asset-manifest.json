@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "./static/css/main.fe648006.chunk.css",
-    "main.js": "./static/js/main.0002d345.chunk.js",
-    "main.js.map": "./static/js/main.0002d345.chunk.js.map",
+    "main.js": "./static/js/main.cb8061dc.chunk.js",
+    "main.js.map": "./static/js/main.cb8061dc.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.b67d067c.js",
     "runtime-main.js.map": "./static/js/runtime-main.b67d067c.js.map",
     "static/js/2.6516f3f9.chunk.js": "./static/js/2.6516f3f9.chunk.js",
@@ -15,7 +15,7 @@
     "static/media/chitchat.fc113b32.png": "./static/media/chitchat.fc113b32.png",
     "static/media/csharp.7ce1ad6d.svg": "./static/media/csharp.7ce1ad6d.svg",
     "static/media/css.b3c0acbf.svg": "./static/media/css.b3c0acbf.svg",
-    "static/media/cybershop.ecba6781.png": "./static/media/cybershop.ecba6781.png",
+    "static/media/cybershop.81483b8d.png": "./static/media/cybershop.81483b8d.png",
     "static/media/d3.a657b29a.svg": "./static/media/d3.a657b29a.svg",
     "static/media/dotnet.ad7f7eea.svg": "./static/media/dotnet.ad7f7eea.svg",
     "static/media/eslint.9ee9c392.svg": "./static/media/eslint.9ee9c392.svg",
@@ -24,7 +24,7 @@
     "static/media/git.43d387b7.svg": "./static/media/git.43d387b7.svg",
     "static/media/github.22861d02.svg": "./static/media/github.22861d02.svg",
     "static/media/html5.91ceb88d.svg": "./static/media/html5.91ceb88d.svg",
-    "static/media/it_bookstore.6a551b80.png": "./static/media/it_bookstore.6a551b80.png",
+    "static/media/it_bookstore.1cd302a6.png": "./static/media/it_bookstore.1cd302a6.png",
     "static/media/javascript.fd46ca41.svg": "./static/media/javascript.fd46ca41.svg",
     "static/media/jest.83a6dad8.svg": "./static/media/jest.83a6dad8.svg",
     "static/media/jquery.f3d70e2f.svg": "./static/media/jquery.f3d70e2f.svg",
@@ -37,7 +37,7 @@
     "static/media/player_profile_mgmt.7951e8b8.png": "./static/media/player_profile_mgmt.7951e8b8.png",
     "static/media/postman.648705b5.svg": "./static/media/postman.648705b5.svg",
     "static/media/react.f1484e29.svg": "./static/media/react.f1484e29.svg",
-    "static/media/recipe_finder.836a0cf7.png": "./static/media/recipe_finder.836a0cf7.png",
+    "static/media/recipe_finder.68b87dfb.png": "./static/media/recipe_finder.68b87dfb.png",
     "static/media/redux.5894bf2b.svg": "./static/media/redux.5894bf2b.svg",
     "static/media/resume.74659c53.pdf": "./static/media/resume.74659c53.pdf",
     "static/media/resume_i.22fbfd11.svg": "./static/media/resume_i.22fbfd11.svg",
@@ -52,6 +52,6 @@
     "static/js/runtime-main.b67d067c.js",
     "static/js/2.6516f3f9.chunk.js",
     "static/css/main.fe648006.chunk.css",
-    "static/js/main.0002d345.chunk.js"
+    "static/js/main.cb8061dc.chunk.js"
   ]
 }
