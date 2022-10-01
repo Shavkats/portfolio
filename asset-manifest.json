@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "./static/css/main.fe648006.chunk.css",
-    "main.js": "./static/js/main.cb8061dc.chunk.js",
-    "main.js.map": "./static/js/main.cb8061dc.chunk.js.map",
+    "main.js": "./static/js/main.f49cd11f.chunk.js",
+    "main.js.map": "./static/js/main.f49cd11f.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.b67d067c.js",
     "runtime-main.js.map": "./static/js/runtime-main.b67d067c.js.map",
     "static/js/2.6516f3f9.chunk.js": "./static/js/2.6516f3f9.chunk.js",
@@ -33,7 +33,7 @@
     "static/media/music_service.d2218af9.png": "./static/media/music_service.d2218af9.png",
     "static/media/node.9a3933d6.svg": "./static/media/node.9a3933d6.svg",
     "static/media/parcel.5b609d8e.svg": "./static/media/parcel.5b609d8e.svg",
-    "static/media/photo.415a89ea.png": "./static/media/photo.415a89ea.png",
+    "static/media/photo1.c8796835.png": "./static/media/photo1.c8796835.png",
     "static/media/player_profile_mgmt.7951e8b8.png": "./static/media/player_profile_mgmt.7951e8b8.png",
     "static/media/postman.648705b5.svg": "./static/media/postman.648705b5.svg",
     "static/media/react.f1484e29.svg": "./static/media/react.f1484e29.svg",
@@ -52,6 +52,6 @@
     "static/js/runtime-main.b67d067c.js",
     "static/js/2.6516f3f9.chunk.js",
     "static/css/main.fe648006.chunk.css",
-    "static/js/main.cb8061dc.chunk.js"
+    "static/js/main.f49cd11f.chunk.js"
   ]
 }
