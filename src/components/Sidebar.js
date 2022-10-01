@@ -1,7 +1,7 @@
 import React from "react";
 import github from "../assets/icons/github.svg";
 import resume_i from "../assets/icons/resume_i.svg";
-import photo from "../assets/photo.png";
+import photo1 from "../assets/photo1.png";
 import resume from "../assets/resume.pdf";
 import { motion } from "framer-motion";
 
@@ -33,7 +33,7 @@ const Sidebar = () => {
       animate="visible"
       exit="exit"
     >
-      <img src={photo} alt="avatar" className="sidebar__avatar" />
+      <img src={photo1} alt="avatar" className="sidebar__avatar" />
       <div className="sidebar__name">Shavkat Ortikov</div>
       <div className="sidebar__item sidebar__title">
         Frontend / SharePoint Developer
