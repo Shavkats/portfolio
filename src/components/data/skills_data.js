@@ -6,7 +6,7 @@ import expressjs from "../../assets/icons/expressjs.svg";
 import bootstrap from "../../assets/icons/bootstrap.svg";
 import postman from "../../assets/icons/postman.svg";
 import webpack from "../../assets/icons/webpack.svg";
-import mongodb from "../../assets/icons/mongodb.svg";
+import cypress from "../../assets/icons/cypress.svg";
 import dotnet from "../../assets/icons/dotnet.svg";
 import csharp from "../../assets/icons/csharp.svg";
 import vscode from "../../assets/icons/vscode.svg";
@@ -14,13 +14,18 @@ import github from "../../assets/icons/github.svg";
 import jquery from "../../assets/icons/jquery.svg";
 import parcel from "../../assets/icons/parcel.svg";
 import eslint from "../../assets/icons/eslint.svg";
+import vitest from "../../assets/icons/vitest.svg";
 import react from "../../assets/icons/react.svg";
 import html5 from "../../assets/icons/html5.svg";
 import redux from "../../assets/icons/redux.svg";
 import babel from "../../assets/icons/babel.svg";
+import pinia from "../../assets/icons/pinia.svg";
+import vite from "../../assets/icons/vite.svg";
 import jest from "../../assets/icons/jest.svg";
 import node from "../../assets/icons/node.svg";
+import scss from "../../assets/icons/scss.svg";
 import css from "../../assets/icons/css.svg";
+import vue from "../../assets/icons/vue.svg";
 import git from "../../assets/icons/git.svg";
 import d3 from "../../assets/icons/d3.svg";
 
@@ -36,6 +41,36 @@ const data_skills = [
     category: "languages",
   },
   {
+    name: "Vue",
+    icon: vue,
+    category: "frontend",
+  },
+  {
+    name: "Pinia",
+    icon: pinia,
+    category: "frontend",
+  },
+  {
+    name: "Vite",
+    icon: vite,
+    category: "frontend",
+  },
+  {
+    name: "Cypress",
+    icon: cypress,
+    category: "frontend",
+  },
+  {
+    name: "Vitest",
+    icon: vitest,
+    category: "frontend",
+  },
+  {
+    name: "Jest",
+    icon: jest,
+    category: "frontend",
+  },
+  {
     name: "React",
     icon: react,
     category: "frontend",
@@ -45,11 +80,7 @@ const data_skills = [
     icon: redux,
     category: "frontend",
   },
-  {
-    name: "Jest",
-    icon: jest,
-    category: "frontend",
-  },
+
   {
     name: "SharePoint",
     icon: sharepoint,
@@ -63,6 +94,11 @@ const data_skills = [
   {
     name: "CSS",
     icon: css,
+    category: "frontend",
+  },
+  {
+    name: "SCSS",
+    icon: scss,
     category: "frontend",
   },
   {
@@ -118,11 +154,6 @@ const data_skills = [
   {
     name: "Express.js",
     icon: expressjs,
-    category: "backend",
-  },
-  {
-    name: "MongoDB",
-    icon: mongodb,
     category: "backend",
   },
   {
