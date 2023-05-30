@@ -31,9 +31,9 @@ const About = () => {
       exit="exit"
     >
       <h6 className="about__intro">
-        Developer with hands-on experience designing, developing, and
-        implementing Web frontend and SharePoint solutions, highly responsive
-        user interface components using a range of technologies.
+        Highly skilled developer with experience developing, implementing, and
+        maintaining Web frontend and SharePoint solutions, responsive, reusable
+        and modular user interface components with JavaScript, Vue, HTML, CSS/SCSS, and a wide range of other frontend technologies, tools and services.
       </h6>
       <div className="container about__container">
         <h6 className="about__heading">Competencies</h6>

@@ -83,8 +83,7 @@ a:hover {
   margin-bottom: 25px;
 }
 
-.sidebar__github:hover,
-.sidebar__resume:hover {
+.sidebar__github:hover {
   background-color: #c2e9fb;
   color: #000;
   transition: all 1s linear;

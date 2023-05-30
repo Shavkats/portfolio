@@ -4,6 +4,7 @@ import sharepoint from "../../assets/icons/sharepoint.svg";
 import sql_server from "../../assets/icons/sql_server.svg";
 import expressjs from "../../assets/icons/expressjs.svg";
 import bootstrap from "../../assets/icons/bootstrap.svg";
+import tailwind from "../../assets/icons/tailwind.svg";
 import postman from "../../assets/icons/postman.svg";
 import webpack from "../../assets/icons/webpack.svg";
 import cypress from "../../assets/icons/cypress.svg";
@@ -12,14 +13,13 @@ import csharp from "../../assets/icons/csharp.svg";
 import vscode from "../../assets/icons/vscode.svg";
 import github from "../../assets/icons/github.svg";
 import jquery from "../../assets/icons/jquery.svg";
-import parcel from "../../assets/icons/parcel.svg";
 import eslint from "../../assets/icons/eslint.svg";
 import vitest from "../../assets/icons/vitest.svg";
 import react from "../../assets/icons/react.svg";
 import html5 from "../../assets/icons/html5.svg";
 import redux from "../../assets/icons/redux.svg";
-import babel from "../../assets/icons/babel.svg";
 import pinia from "../../assets/icons/pinia.svg";
+import nuxt from "../../assets/icons/nuxt.svg";
 import vite from "../../assets/icons/vite.svg";
 import jest from "../../assets/icons/jest.svg";
 import node from "../../assets/icons/node.svg";
@@ -46,13 +46,13 @@ const data_skills = [
     category: "frontend",
   },
   {
-    name: "Pinia",
-    icon: pinia,
+    name: "Nuxt",
+    icon: nuxt,
     category: "frontend",
   },
   {
-    name: "Vite",
-    icon: vite,
+    name: "Pinia",
+    icon: pinia,
     category: "frontend",
   },
   {
@@ -87,6 +87,16 @@ const data_skills = [
     category: "frontend",
   },
   {
+    name: "D3.js",
+    icon: d3,
+    category: "frontend",
+  },
+  {
+    name: "jQuery",
+    icon: jquery,
+    category: "frontend",
+  },
+  {
     name: "HTML",
     icon: html5,
     category: "frontend",
@@ -102,33 +112,23 @@ const data_skills = [
     category: "frontend",
   },
   {
+    name: "Tailwind CSS",
+    icon: tailwind,
+    category: "frontend",
+  },
+  {
     name: "Bootstrap",
     icon: bootstrap,
     category: "frontend",
   },
   {
-    name: "D3.js",
-    icon: d3,
+    name: "Vite",
+    icon: vite,
     category: "frontend",
-  },
-  {
-    name: "jQuery",
-    icon: jquery,
-    category: "frontend",
-  },
-  {
-    name: "Parcel",
-    icon: parcel,
-    category: "tools",
   },
   {
     name: "Webpack",
     icon: webpack,
-    category: "tools",
-  },
-  {
-    name: "Babel",
-    icon: babel,
     category: "tools",
   },
   {

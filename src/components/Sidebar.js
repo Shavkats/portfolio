@@ -1,8 +1,6 @@
 import React from "react";
 import github from "../assets/icons/github.svg";
-import resume_i from "../assets/icons/resume_i.svg";
 import photo1 from "../assets/photo1.png";
-import resume from "../assets/resume.pdf";
 import { motion } from "framer-motion";
 
 const Sidebar = () => {
@@ -41,12 +39,6 @@ const Sidebar = () => {
       <div className="sidebar__item sidebar__email">
         Email: shavkatjon@msn.com
       </div>
-      <a href={resume} download="resume.pdf">
-        <div className="sidebar__item sidebar__resume">
-          <img src={resume_i} alt="resume" className="sidebar__icon mr-3" />
-          Download Resume
-        </div>
-      </a>
       <div className="sidebar__item sidebar__github">
         <a
           href="https://github.com/Shavkats"

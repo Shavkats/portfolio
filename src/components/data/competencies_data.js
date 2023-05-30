@@ -28,7 +28,7 @@ const competencies = [
     icon: frontend,
     title: "Frontend  Development",
     about:
-      "Working knowledge of front-end development tools Git, Github, Webpack, Vite and npm; Interacting with REST APIs; Proficient in HTML and CSS, DOM element querying, manipulation, event handling, etc.",
+      "Working knowledge of front-end development tools Git, Github, Webpack, Vite and npm; Interacting with REST APIs; Proficient in HTML and CSS/SCSS, DOM element querying, manipulation, event handling, etc.",
   },
   {
     icon: react,
